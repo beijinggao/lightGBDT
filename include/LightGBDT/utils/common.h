@@ -1,7 +1,7 @@
 #ifndef LIGHTGBDT_UTILS_COMMON_FUN_H_
 #define LIGHTGBDT_UTILS_COMMON_FUN_H_
 
-#include <LightGBM/utils/log.h>
+#include <LightGBDT/utils/log.h>
 
 #include <cstdio>
 #include <string>
