@@ -10,7 +10,7 @@
 #include <memory>
 #include <vector>
 
-namespace LightGBM {
+namespace LightGBDT {
 
 class Dataset;
 class DatasetLoader;
