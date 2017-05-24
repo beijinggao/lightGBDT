@@ -1,7 +1,7 @@
 #ifndef LIGHTGBDT_BOOSTING_GBDT_H_
 #define LIGHTGBDT_BOOSTING_GBDT_H_
 
-#include <LightGBM/boosting.h>
+#include <LightGBDT/boosting.h>
 #include "score_updater.hpp"
 
 #include <cstdio>
