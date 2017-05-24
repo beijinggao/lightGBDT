@@ -53,14 +53,14 @@ class Log
         va_list val;
         va_start(val, format);
         Write(LogLevel::Debug, "Debug", format, val);
-        va_end();
+        va_end(val);
     }
     static void Info(const char *format, ...)
     {
         va_list val;
         va_start(val, format);
         Write(LogLevel::Info, "Info", format, val);
-        va_end();
+        va_end(val);
     }
     static void Warning(const char *format, ...)
     {
