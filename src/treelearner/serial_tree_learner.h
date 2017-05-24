@@ -20,7 +20,7 @@
 #include <memory>
 
 
-namespace LightGBM {
+namespace LightGBDT {
 
 /*!
 * \brief Used for learning a tree by single machine
